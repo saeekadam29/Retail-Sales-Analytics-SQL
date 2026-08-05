@@ -1,0 +1,10 @@
+Tables_in_shopping_analysis_pro
+customers
+customers_raw
+orders
+payments
+products
+shipping
+vw_customer_summary
+vw_product_performance
+vw_sales_summary

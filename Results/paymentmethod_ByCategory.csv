@@ -1,0 +1,25 @@
+Category,"Payment Method",Orders
+Clothing,"Debit Card",269
+Clothing,Venmo,298
+Clothing,"Credit Card",301
+Clothing,PayPal,297
+Clothing,Cash,300
+Clothing,"Bank Transfer",272
+Footwear,Cash,95
+Footwear,"Bank Transfer",97
+Footwear,"Credit Card",102
+Footwear,"Debit Card",106
+Footwear,Venmo,87
+Footwear,PayPal,112
+Outerwear,Venmo,46
+Outerwear,"Credit Card",62
+Outerwear,Cash,42
+Outerwear,PayPal,62
+Outerwear,"Debit Card",56
+Outerwear,"Bank Transfer",56
+Accessories,PayPal,206
+Accessories,"Debit Card",205
+Accessories,"Credit Card",206
+Accessories,Venmo,203
+Accessories,"Bank Transfer",187
+Accessories,Cash,233

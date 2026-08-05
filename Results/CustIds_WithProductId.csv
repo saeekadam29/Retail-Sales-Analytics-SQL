@@ -1,0 +1,21 @@
+Order_ID,Location,"Item Purchased",Category,"Purchase Amount (USD)"
+3,Kentucky,Blouse,Clothing,53
+8,Maine,Sweater,Clothing,64
+13,Massachusetts,Jeans,Clothing,73
+17,"Rhode Island",Sandals,Footwear,90
+24,Oregon,Blouse,Clothing,49
+32,Wyoming,Sneakers,Footwear,20
+38,Montana,Shirt,Clothing,85
+40,Louisiana,Shorts,Clothing,34
+42,"West Virginia",Coat,Outerwear,97
+43,Missouri,Handbag,Accessories,31
+51,Arkansas,Shoes,Footwear,34
+52,Hawaii,Shorts,Clothing,68
+53,Delaware,Coat,Outerwear,72
+55,"New Hampshire",Dress,Clothing,51
+64,"New York",Coat,Outerwear,53
+66,"Rhode Island",Skirt,Clothing,81
+85,Alabama,Sunglasses,Accessories,36
+87,Mississippi,Dress,Clothing,38
+88,Montana,Sweater,Clothing,48
+90,"Rhode Island",Pants,Clothing,90

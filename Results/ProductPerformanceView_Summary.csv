@@ -1,0 +1,21 @@
+Product_ID,"Item Purchased",Category,Total_Sales,Revenue,Avg_Rating
+1,Blouse,Clothing,171,10410,3.68
+2,Sweater,Clothing,164,9462,3.77
+3,Jeans,Clothing,124,7548,3.65
+4,Sandals,Footwear,160,9200,3.84
+5,Sneakers,Footwear,145,8635,3.76
+6,Shirt,Clothing,169,10332,3.63
+7,Shorts,Clothing,157,9433,3.71
+8,Coat,Outerwear,161,9275,3.73
+9,Handbag,Accessories,153,8857,3.78
+10,Shoes,Footwear,150,9240,3.75
+11,Dress,Clothing,166,10320,3.75
+12,Skirt,Clothing,158,9402,3.78
+13,Sunglasses,Accessories,161,9649,3.74
+14,Pants,Clothing,171,10090,3.72
+15,Jacket,Outerwear,163,9249,3.76
+16,Hoodie,Clothing,151,8767,3.72
+17,Jewelry,Accessories,171,10010,3.76
+18,T-shirt,Clothing,147,9248,3.78
+19,Scarf,Accessories,157,9561,3.7
+20,Hat,Accessories,154,9375,3.81
